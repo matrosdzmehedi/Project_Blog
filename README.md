@@ -18,6 +18,7 @@
 
 # change database config : settings.py
 
+<pre> use postgresql </pre>
 <code><pre>
 DATABASES = {
     'default': {
